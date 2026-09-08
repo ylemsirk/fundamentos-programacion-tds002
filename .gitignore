@@ -1,0 +1,8 @@
+# Archivos de compilación e intermediarios de .NET / Visual Studio
+bin/
+obj/
+
+# Archivos de usuario y configuración local de IDE
+.vs/
+*.user
+*.suo
