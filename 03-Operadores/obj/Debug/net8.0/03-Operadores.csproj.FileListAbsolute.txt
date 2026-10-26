@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/bin/Debug/net8.0/03-Operadores
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/bin/Debug/net8.0/03-Operadores.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/bin/Debug/net8.0/03-Operadores.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/bin/Debug/net8.0/03-Operadores.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/bin/Debug/net8.0/03-Operadores.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/refint/03-Operadores.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/03-Operadores.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/03-Operadores/obj/Debug/net8.0/ref/03-Operadores.dll
