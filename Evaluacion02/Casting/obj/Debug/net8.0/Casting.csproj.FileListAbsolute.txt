@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/bin/Debug/net8.0/Casting
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/bin/Debug/net8.0/Casting.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/bin/Debug/net8.0/Casting.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/bin/Debug/net8.0/Casting.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/bin/Debug/net8.0/Casting.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/refint/Casting.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/Casting/obj/Debug/net8.0/ref/Casting.dll
