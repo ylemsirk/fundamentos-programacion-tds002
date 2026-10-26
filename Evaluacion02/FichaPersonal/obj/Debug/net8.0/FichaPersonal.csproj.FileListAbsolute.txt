@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/bin/Debug/net8.0/FichaPersonal
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/bin/Debug/net8.0/FichaPersonal.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/bin/Debug/net8.0/FichaPersonal.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/bin/Debug/net8.0/FichaPersonal.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/bin/Debug/net8.0/FichaPersonal.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/refint/FichaPersonal.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/FichaPersonal.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion02/FichaPersonal/obj/Debug/net8.0/ref/FichaPersonal.dll
