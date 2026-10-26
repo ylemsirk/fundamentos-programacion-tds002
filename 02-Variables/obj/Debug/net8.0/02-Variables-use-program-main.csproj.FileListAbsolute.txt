@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/bin/Debug/net8.0/02-Variables-use-program-main
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/bin/Debug/net8.0/02-Variables-use-program-main.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/bin/Debug/net8.0/02-Variables-use-program-main.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/bin/Debug/net8.0/02-Variables-use-program-main.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/bin/Debug/net8.0/02-Variables-use-program-main.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/refint/02-Variables-use-program-main.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/02-Variables-use-program-main.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/02-Variables/obj/Debug/net8.0/ref/02-Variables-use-program-main.dll
