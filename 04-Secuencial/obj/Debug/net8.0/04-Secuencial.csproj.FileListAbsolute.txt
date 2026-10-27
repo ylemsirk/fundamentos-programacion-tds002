@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/bin/Debug/net8.0/04-Secuencial
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/bin/Debug/net8.0/04-Secuencial.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/bin/Debug/net8.0/04-Secuencial.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/bin/Debug/net8.0/04-Secuencial.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/bin/Debug/net8.0/04-Secuencial.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/refint/04-Secuencial.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/04-Secuencial.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/04-Secuencial/04-Secuencial/obj/Debug/net8.0/ref/04-Secuencial.dll
