@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/bin/Debug/net8.0/Caja_registradora
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/bin/Debug/net8.0/Caja_registradora.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/bin/Debug/net8.0/Caja_registradora.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/bin/Debug/net8.0/Caja_registradora.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/bin/Debug/net8.0/Caja_registradora.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/refint/Caja_registradora.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/Caja_registradora.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/Evaluacion05/Caja_registradora/obj/Debug/net8.0/ref/Caja_registradora.dll
