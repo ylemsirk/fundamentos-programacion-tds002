@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/bin/Debug/net8.0/08-For-Menus
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/bin/Debug/net8.0/08-For-Menus.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/bin/Debug/net8.0/08-For-Menus.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/bin/Debug/net8.0/08-For-Menus.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/bin/Debug/net8.0/08-For-Menus.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/refint/08-For-Menus.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/08-For-Menus.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/08-For-Menus/obj/Debug/net8.0/ref/08-For-Menus.dll
