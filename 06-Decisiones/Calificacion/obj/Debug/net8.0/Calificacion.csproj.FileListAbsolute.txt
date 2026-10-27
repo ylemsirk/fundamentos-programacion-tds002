@@ -1,0 +1,15 @@
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/bin/Debug/net8.0/Calificacion
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/bin/Debug/net8.0/Calificacion.deps.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/bin/Debug/net8.0/Calificacion.runtimeconfig.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/bin/Debug/net8.0/Calificacion.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/bin/Debug/net8.0/Calificacion.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.AssemblyInfoInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.AssemblyInfo.cs
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.csproj.CoreCompileInputs.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.sourcelink.json
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/refint/Calificacion.dll
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.pdb
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/Calificacion.genruntimeconfig.cache
+/home/ylemsirk/Descargas/Tareas/TERCER/Fundamentos de Programación/06-Decisiones/Calificacion/obj/Debug/net8.0/ref/Calificacion.dll
